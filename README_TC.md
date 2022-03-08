@@ -3,6 +3,6 @@
 [論壇(等待備案)](https://forum.ifvlab.com)  
 [博客(等待備案)](https://blog.ifvtechnology.net)  
 ---
-[GPG公鑰](GPG.md)  
+[PGP公鑰](PGP.md)  
 ---
 [简体](README.md) [English](README_EN.md)  
