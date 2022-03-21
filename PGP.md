@@ -1,5 +1,5 @@
 [PGP Public Key1](PGP/PGP1.asc)  
 状态:可用  
-Fingerprint:F3B6 3BD0 B4AE C691 C517  C970 DA1B 4872 2B1A 7397  
+Fingerprint:5856 29CA B2E9 B235 3537  3A99 68F4 370E 8985 DC3E  
 ---
 如有重要消息，请使用公钥加密后向我发送，可以使用邮件  
